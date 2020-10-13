@@ -1,3 +1,7 @@
 <h1> hi  thi is a sample file</h1>
 <div> hey I updated the  code </div>
+<<<<<<< HEAD
 <p> hello therehow are you  doing </p> 
+=======
+<div> I am updating the code at 7:30pm</div>
+>>>>>>> 635474f480cfcfff5da84faf96a964e647208477
